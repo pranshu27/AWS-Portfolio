@@ -15,12 +15,5 @@ This repository documents the configuration of an AWS Monthly Cost Budget with e
 - **Account ID**: [REDACTED ACCOUNT ID]
 - **Region**: us-east-1 (N. Virginia)
 
-## Repository Structure
-```
-aws-cost-budget/
-├── README.md
-├── budget-config.md  
-├── sns-setup.md
-├── cloudwatch-alarm.md
-└── screenshots/ (place your 15 images here)
+
 ```
