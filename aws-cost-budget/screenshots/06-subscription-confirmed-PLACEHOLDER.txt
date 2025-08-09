@@ -1,0 +1,13 @@
+SCREENSHOT PLACEHOLDER - REPLACE WITH ACTUAL IMAGE
+=======================================================
+
+Expected filename: 06-subscription-confirmed.png
+Content description: Success confirmation message for SNS subscription with ARN details
+
+INSTRUCTIONS:
+1. Take a screenshot of the AWS console showing: Success confirmation message for SNS subscription with ARN details
+2. Save it as: 06-subscription-confirmed.png
+3. Replace this placeholder file with your image
+4. Delete this .txt file after adding the screenshot
+
+SOURCE: Extracted from your PDF attachment showing AWS cost budget setup

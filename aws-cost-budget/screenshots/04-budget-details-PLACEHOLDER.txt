@@ -1,0 +1,13 @@
+SCREENSHOT PLACEHOLDER - REPLACE WITH ACTUAL IMAGE
+=======================================================
+
+Expected filename: 04-budget-details.png
+Content description: Budget configuration showing 85%/100% thresholds and notification settings
+
+INSTRUCTIONS:
+1. Take a screenshot of the AWS console showing: Budget configuration showing 85%/100% thresholds and notification settings
+2. Save it as: 04-budget-details.png
+3. Replace this placeholder file with your image
+4. Delete this .txt file after adding the screenshot
+
+SOURCE: Extracted from your PDF attachment showing AWS cost budget setup

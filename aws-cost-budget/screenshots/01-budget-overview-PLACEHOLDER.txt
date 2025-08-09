@@ -1,0 +1,13 @@
+SCREENSHOT PLACEHOLDER - REPLACE WITH ACTUAL IMAGE
+=======================================================
+
+Expected filename: 01-budget-overview.png
+Content description: Main budgets dashboard showing 'My Monthly Cost Budget' listed with $5.00 amount and Healthy status
+
+INSTRUCTIONS:
+1. Take a screenshot of the AWS console showing: Main budgets dashboard showing 'My Monthly Cost Budget' listed with $5.00 amount and Healthy status
+2. Save it as: 01-budget-overview.png
+3. Replace this placeholder file with your image
+4. Delete this .txt file after adding the screenshot
+
+SOURCE: Extracted from your PDF attachment showing AWS cost budget setup

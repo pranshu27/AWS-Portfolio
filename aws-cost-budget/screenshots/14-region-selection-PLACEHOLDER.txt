@@ -1,0 +1,13 @@
+SCREENSHOT PLACEHOLDER - REPLACE WITH ACTUAL IMAGE
+=======================================================
+
+Expected filename: 14-region-selection.png
+Content description: AWS region dropdown showing us-east-1, us-west-1, ap-south-1, etc.
+
+INSTRUCTIONS:
+1. Take a screenshot of the AWS console showing: AWS region dropdown showing us-east-1, us-west-1, ap-south-1, etc.
+2. Save it as: 14-region-selection.png
+3. Replace this placeholder file with your image
+4. Delete this .txt file after adding the screenshot
+
+SOURCE: Extracted from your PDF attachment showing AWS cost budget setup

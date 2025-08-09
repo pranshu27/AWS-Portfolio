@@ -1,0 +1,13 @@
+SCREENSHOT PLACEHOLDER - REPLACE WITH ACTUAL IMAGE
+=======================================================
+
+Expected filename: 08-alarm-details.png
+Content description: CloudWatch alarm creation form with 'monthly-billing-alert' name
+
+INSTRUCTIONS:
+1. Take a screenshot of the AWS console showing: CloudWatch alarm creation form with 'monthly-billing-alert' name
+2. Save it as: 08-alarm-details.png
+3. Replace this placeholder file with your image
+4. Delete this .txt file after adding the screenshot
+
+SOURCE: Extracted from your PDF attachment showing AWS cost budget setup
